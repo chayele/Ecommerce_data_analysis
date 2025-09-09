@@ -1,6 +1,4 @@
-########################################
-# Code from plot_1.py
-########################################
+
 
 import pandas as pd
 import numpy as np
@@ -9,7 +7,7 @@ import plotly.graph_objects as go
 from IPython.display import display, Markdown
 
 ########################################
-# Code from plot_5.py
+# Code from plot_1.py
 ########################################
 
 import pandas as pd
@@ -111,7 +109,7 @@ fig.show()
 
 
 ########################################
-# Code from plot_7.py
+# Code from plot_2.py
 ########################################
 
 # Group by Product Category and calculate average order value
@@ -146,7 +144,7 @@ fig.show()
 
 
 ########################################
-# Code from plot_8.py
+# Code from plot_3.py
 ########################################
 
 from plotly.subplots import make_subplots
@@ -175,7 +173,7 @@ performance_summary.columns = [
 print(performance_summary)
 
 # ---------------------------
-# Optional: Visualize metrics
+# Code from plot_4.py
 # ---------------------------
 
 fig = make_subplots(
@@ -222,7 +220,7 @@ fig.show()
 
 
 ########################################
-# Code from plot_9.py
+# Code from plot_5.py
 ########################################
 
 import pandas as pd
